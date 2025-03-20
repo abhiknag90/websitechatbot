@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+beautifulsoup4
+requests
